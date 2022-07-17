@@ -14,7 +14,14 @@ main{
     width: 870px;
     padding: 30px;
 }
+hr{
+    border: 1px solid #d1d1d1;
+    
+}
 /* top players style */
+.top-players{
+    margin-bottom: 30px;
+}
 .section-title{
     color:#562eff;
     font-size: 24px;
